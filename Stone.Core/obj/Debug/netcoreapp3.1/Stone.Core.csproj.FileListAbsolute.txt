@@ -1,0 +1,54 @@
+L:\Visual studio Projects\Stone\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.deps.json
+L:\Visual studio Projects\Stone\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.dll
+L:\Visual studio Projects\Stone\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.csprojAssemblyReference.cache
+L:\Visual studio Projects\Stone\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.AssemblyInfoInputs.cache
+L:\Visual studio Projects\Stone\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.AssemblyInfo.cs
+L:\Visual studio Projects\Stone\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.runtimeconfig.json
+L:\Visual studio Projects\Stone\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.runtimeconfig.dev.json
+L:\Visual studio Projects\Stone\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.genruntimeconfig.cache
+L:\Visual studio Projects\Stone\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.pdb
+L:\Visual studio Projects\Stone\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.csproj.CoreCompileInputs.cache
+L:\Visual studio Projects\Stone\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.dll
+L:\Visual studio Projects\Stone\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.pdb
+L:\Visual studio Projects\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.deps.json
+L:\Visual studio Projects\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.runtimeconfig.json
+L:\Visual studio Projects\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.runtimeconfig.dev.json
+L:\Visual studio Projects\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.dll
+L:\Visual studio Projects\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.pdb
+L:\Visual studio Projects\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.csprojAssemblyReference.cache
+L:\Visual studio Projects\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.AssemblyInfoInputs.cache
+L:\Visual studio Projects\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.AssemblyInfo.cs
+L:\Visual studio Projects\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.csproj.CoreCompileInputs.cache
+L:\Visual studio Projects\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.dll
+L:\Visual studio Projects\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.pdb
+L:\Visual studio Projects\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.genruntimeconfig.cache
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.AssemblyInfoInputs.cache
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.AssemblyInfo.cs
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.deps.json
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.runtimeconfig.json
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.runtimeconfig.dev.json
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.dll
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.pdb
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.DataLayer.dll
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.DataLayer.pdb
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.csprojAssemblyReference.cache
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.csproj.CopyComplete
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.dll
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.pdb
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.genruntimeconfig.cache
+L:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.csproj.CoreCompileInputs.cache
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.deps.json
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.runtimeconfig.json
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.runtimeconfig.dev.json
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.dll
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.Core.pdb
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.DataLayer.dll
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\bin\Debug\netcoreapp3.1\Stone.DataLayer.pdb
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.csprojAssemblyReference.cache
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.AssemblyInfoInputs.cache
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.AssemblyInfo.cs
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.csproj.CoreCompileInputs.cache
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.csproj.CopyComplete
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.dll
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.pdb
+M:\Visual studio Projects\Big Stone\Stone.API\Stone.Core\obj\Debug\netcoreapp3.1\Stone.Core.genruntimeconfig.cache
