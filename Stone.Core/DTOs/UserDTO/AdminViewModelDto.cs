@@ -7,6 +7,7 @@ namespace Stone.Core.DTOs.UserDTO
 {
     public class AdminViewModelDto
     {
+        //allah
         [Display(Name = "موبایل")]
         public string Mobile { get; set; }
 
